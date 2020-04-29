@@ -1,0 +1,22 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "用 Jest 測試 Unit Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dingzhengru/Unit-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dingzhengru/Unit-Test/issues"
+  },
+  "homepage": "https://github.com/dingzhengru/Unit-Test#readme",
+  "devDependencies": {
+    "jest": "^25.5.0"
+  }
+}
